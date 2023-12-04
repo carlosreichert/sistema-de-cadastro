@@ -1,2 +1,9 @@
-# sistema-de-cadastro
-Projeto feito em curso da Alura sobre Git e GitHub
+# Sistema de cadastro de jogos 
+
+> Status do projeto: Em desenvolvimento
+
+Para rodar esse projeto na sua máquina, por favor digite:
+
+```
+node app.js
+```
